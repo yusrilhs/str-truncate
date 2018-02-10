@@ -1,0 +1,27 @@
+{
+  "name": "str-truncate",
+  "version": "1.0.0",
+  "description": "Polyfill for truncate string",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusrilhs/str-truncate.git"
+  },
+  "keywords": [
+    "string",
+    "truncate",
+    "polyfill"
+  ],
+  "author": "Yusril Herlian Syah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yusrilhs/str-truncate/issues"
+  },
+  "homepage": "https://github.com/yusrilhs/str-truncate#readme",
+  "devDependencies": {
+    "mocha": "^5.0.0"
+  }
+}
