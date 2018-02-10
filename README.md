@@ -12,4 +12,8 @@ require('str-truncate');
 // Output: Lorem ipsum dolor sit amet, consectetur adipisicin...
 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. \
 Aliquid corrupti vitae, doloribus iusto praesentium dolorem.'.truncate(50);
+
+// Output: Lorem ipsum dolor sit amet, ..read more
+'Lorem ipsum dolor sit amet, consectetur adipisicing elit. \
+Eaque doloremque asperiores ut ipsum totam quos.'.truncate(50, ' ..read more');
 ```
