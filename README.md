@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/yusrilhs/str-truncate.svg?branch=master)](https://travis-ci.org/yusrilhs/str-truncate)
+
 # str-truncate
  Polyfill for truncate string
 
