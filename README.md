@@ -11,7 +11,7 @@
 ```js
 require('str-truncate');
 
-// Output: Lorem ipsum dolor sit amet, consectetur adipisicin...
+// Output: Lorem ipsum dolor sit amet, consectetur...
 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. \
 Aliquid corrupti vitae, doloribus iusto praesentium dolorem.'.truncate(50);
 
